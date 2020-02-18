@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookApp</string>
+
+    <string name="save_successful">Save successful</string>
+    <string name="save_unsuccessful">Save unsuccessful</string>
+
+    <string name="error_message">Something went wrong.</string>
+</resources>
